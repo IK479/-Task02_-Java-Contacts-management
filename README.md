@@ -2,4 +2,5 @@ Task02_Java_Contacts-management
 Object-Oriented Programming 
 
 Task link: 
-file:///C:/Users/idoka/Desktop/New%20folder/Task1%20-%2011.11.pdf
+
+[Task1 - 11.11.pdf](https://github.com/IK479/-Task02_-Java-Contacts-management/files/7715184/Task1.-.11.11.pdf)
