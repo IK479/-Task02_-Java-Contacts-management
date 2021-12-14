@@ -1,4 +1,5 @@
-Object-Oriented Programming: 
+Object-Oriented Programming:
+
 Task02_Java_Contacts-management
 
 Task link: 
